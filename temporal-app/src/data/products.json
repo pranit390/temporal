@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "productId": "prod-001",
+      "name": "Smartphone X",
+      "description": "Latest smartphone with advanced features",
+      "price": 999.99,
+      "category": "Electronics",
+      "stockQuantity": 50,
+      "imageUrl": "https://example.com/smartphone-x.jpg",
+      "weight": 0.2,
+      "dimensions": {
+        "length": 15,
+        "width": 7,
+        "height": 1
+      },
+      "isAvailable": true
+    },
+    {
+      "productId": "prod-002",
+      "name": "Laptop Pro",
+      "description": "High-performance laptop for professionals",
+      "price": 1499.99,
+      "category": "Electronics",
+      "stockQuantity": 25,
+      "imageUrl": "https://example.com/laptop-pro.jpg",
+      "weight": 2.5,
+      "dimensions": {
+        "length": 35,
+        "width": 25,
+        "height": 2
+      },
+      "isAvailable": true
+    },
+    {
+      "productId": "prod-003",
+      "name": "Wireless Headphones",
+      "description": "Noise-cancelling wireless headphones",
+      "price": 199.99,
+      "category": "Audio",
+      "stockQuantity": 100,
+      "imageUrl": "https://example.com/wireless-headphones.jpg",
+      "weight": 0.3,
+      "dimensions": {
+        "length": 18,
+        "width": 15,
+        "height": 8
+      },
+      "isAvailable": true
+    },
+    {
+      "productId": "prod-004",
+      "name": "Smart Watch",
+      "description": "Fitness and health tracking smart watch",
+      "price": 299.99,
+      "category": "Wearables",
+      "stockQuantity": 75,
+      "imageUrl": "https://example.com/smart-watch.jpg",
+      "weight": 0.1,
+      "dimensions": {
+        "length": 5,
+        "width": 5,
+        "height": 1.5
+      },
+      "isAvailable": true
+    },
+    {
+      "productId": "prod-005",
+      "name": "Tablet Mini",
+      "description": "Compact tablet for entertainment and productivity",
+      "price": 399.99,
+      "category": "Electronics",
+      "stockQuantity": 0,
+      "imageUrl": "https://example.com/tablet-mini.jpg",
+      "weight": 0.5,
+      "dimensions": {
+        "length": 20,
+        "width": 15,
+        "height": 1
+      },
+      "isAvailable": false
+    }
+  ]
+} 
